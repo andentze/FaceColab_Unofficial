@@ -1,14 +1,14 @@
 # FaceColab_Unofficial
 
-**NOT WORKING FOR NOW, TRYING MY BEST TO FIX IT**
+**SHOULD WORK FOR NOW. HAVENT TESTED IT.**
 
 The unofficial notebook used in Google Colab. Provided with ease of use and flexibility of configuration.
 
 List of features:
 
-  * Desktop Environment(*not proven to work*)
+  * *Desktop Environment*(*not proven to work*)
   * Extract/Train/Convert
-  * Faceswap Configuration(*not done yet*) and more to be in plans.
+  * *Faceswap Configuration*(*not done yet*) and more to be in plans.
 
 To open this notebook, just to to Google Colab -> File -> Open Notebook -> GitHub -> paste the link of this repository.
 
