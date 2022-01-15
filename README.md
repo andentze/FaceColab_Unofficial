@@ -1,6 +1,6 @@
 # FaceColab_Unofficial
 
-**SHOULD WORK FOR NOW. HAVENT TESTED IT.**
+**WORKS COMPLETELY FINE. SHOULD BE LONG-LIVED.**
 
 The unofficial notebook used in Google Colab. Provided with ease of use and flexibility of configuration.
 
