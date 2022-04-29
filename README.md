@@ -7,6 +7,7 @@ UPD: NOW UTILIZES CONDA FOR PROPER INSTALLATION
 
 Which means that it now acts as a normal Faceswap installation.
 
+
 The unofficial notebook used in Google Colab. Provided with ease of use and flexibility of configuration.
 
 List of features:
