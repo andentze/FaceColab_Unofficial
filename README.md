@@ -3,7 +3,7 @@
 
 **WORKS COMPLETELY FINE. SHOULD BE LONG-LIVED.**
 
-~~UPD: NOW UTILIZES CONDA FOR PROPER INSTALLATION~~(to fix. please, dont use conda for now.)
+UPD: NOW UTILIZES CONDA FOR PROPER INSTALLATION
 
 Which means that it now acts as a normal Faceswap installation.
 
